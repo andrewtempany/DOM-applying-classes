@@ -29,5 +29,13 @@ div {
   display: block;
   border: 3px black dashed;
   border-radius: 0;
-  background-color: white;
+  background-color: rgb(197, 48, 48);
+}
+
+.green {
+  background-color: green;
+}
+
+.salmon {
+  background-color: lightsalmon;
 }
